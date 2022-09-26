@@ -1,0 +1,6 @@
+/Users/hummingbird/RiderProjects/Bourdeau_E_07226_420-DA3-AS/Bourdeau_E_07226_420-DA3-AS/bin/Debug/Bourdeau_E_07226_420_DA3_AS.exe
+/Users/hummingbird/RiderProjects/Bourdeau_E_07226_420-DA3-AS/Bourdeau_E_07226_420-DA3-AS/bin/Debug/Bourdeau_E_07226_420_DA3_AS.pdb
+/Users/hummingbird/RiderProjects/Bourdeau_E_07226_420-DA3-AS/Bourdeau_E_07226_420-DA3-AS/obj/Debug/Bourdeau_E_07226_420-DA3-AS.csproj.AssemblyReference.cache
+/Users/hummingbird/RiderProjects/Bourdeau_E_07226_420-DA3-AS/Bourdeau_E_07226_420-DA3-AS/obj/Debug/Bourdeau_E_07226_420-DA3-AS.csproj.CoreCompileInputs.cache
+/Users/hummingbird/RiderProjects/Bourdeau_E_07226_420-DA3-AS/Bourdeau_E_07226_420-DA3-AS/obj/Debug/Bourdeau_E_07226_420_DA3_AS.exe
+/Users/hummingbird/RiderProjects/Bourdeau_E_07226_420-DA3-AS/Bourdeau_E_07226_420-DA3-AS/obj/Debug/Bourdeau_E_07226_420_DA3_AS.pdb
